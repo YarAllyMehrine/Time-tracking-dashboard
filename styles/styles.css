@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+:root {
+    --pale-blue : hsl(236, 100%, 87%);
+    --desaturated-blue : hsl(235, 45%, 61%);
+    --blue : hsl(246, 80%, 60%);
+    --soft-blue : hsl(195, 74%, 62%);
+    --dark-blue : hsl(235, 46%, 20%);
+    --very-dark-blue : hsl(226, 43%, 10%);
+    --light-red : hsl(348, 100%, 68%);
+    --light-orange : hsl(15, 100%, 70%);
+    --light-yellow : hsl(43, 84%, 65%);
+    --lime-green : hsl(145, 58%, 55%);
+    --violet : hsl(264, 64%, 52%);
+}
+
+*,
+  *::before,
+  *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
