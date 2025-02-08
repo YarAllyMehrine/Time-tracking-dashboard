@@ -36,7 +36,7 @@ const cardFn = (data, timeframe) => {
             </div>
             <div class="card-content rounded-xl cursor-pointer">
                 <div class="card-title flex items-center justify-between">
-                    <h2 class="text-white font-medium"> ${title} </h2>
+                    <h2 class="text-white font-medium text-lg"> ${title} </h2>
                     <img class="card-icon" src="./images/icon-ellipsis.svg" alt=""/>
                 </div>
 
